@@ -1,10 +1,3 @@
-//
-//  WorkoutsModel.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 14.03.21.
-//
-
 import RealmSwift
 
 class WorkoutsModel: Object {

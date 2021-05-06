@@ -1,10 +1,3 @@
-//
-//  SettingsCell.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 9.03.21.
-//
-
 import Foundation
 
 enum SettingsCell: String, CaseIterable {

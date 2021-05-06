@@ -1,10 +1,3 @@
-//
-//  Constant.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 6.02.21.
-//
-
 import UIKit
 
 let screenWidth = UIScreen.main.bounds.size.width

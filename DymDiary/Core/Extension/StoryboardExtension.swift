@@ -1,10 +1,3 @@
-//
-//  StoryboardExtension.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 1.02.21.
-//
-
 import UIKit
 
 extension UIStoryboard {

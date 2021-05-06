@@ -1,10 +1,3 @@
-//
-//  UserModel.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 24.02.21.
-//
-
 import RealmSwift
 
 class UserModel: Object, Codable {

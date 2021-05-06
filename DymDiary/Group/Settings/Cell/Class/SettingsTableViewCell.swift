@@ -1,11 +1,4 @@
-//
-//  SettingsTableViewCell.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 8.03.21.
-//
-
-import UIKit
+mport UIKit
 
 class SettingsTableViewCell: UITableViewCell {
     

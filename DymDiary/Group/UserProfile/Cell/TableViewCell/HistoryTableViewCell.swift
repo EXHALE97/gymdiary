@@ -1,10 +1,3 @@
-//
-//  HistoryTableViewCell.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 11.03.21.
-//
-
 import UIKit
 
 class HistoryTableViewCell: UITableViewCell {

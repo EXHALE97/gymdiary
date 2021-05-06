@@ -1,10 +1,3 @@
-//
-//  TrainingProcessViewController.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 9.03.21.
-//
-
 import UIKit
 import Lottie
 

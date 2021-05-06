@@ -1,10 +1,3 @@
-//
-//  HomeViewController.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 16.02.21.
-//
-
 import UIKit
 import FirebaseUI
 import FirebaseStorage

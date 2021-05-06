@@ -1,10 +1,3 @@
-//
-//  ExcercisesTimeObject.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 5.03.21.
-//
-
 import RealmSwift
 
 class ExcercisesApproachObject: Object, Codable {

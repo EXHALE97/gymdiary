@@ -1,10 +1,3 @@
-//
-//  UserWeightViewController.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 5.02.21.
-//
-
 import UIKit
 
 class WeightViewController: UIViewController {

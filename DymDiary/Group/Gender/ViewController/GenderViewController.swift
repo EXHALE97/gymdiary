@@ -1,10 +1,3 @@
-//
-//  GenderViewController.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 3.02.21.
-//
-
 import UIKit
 
 class GenderViewController: UIViewController {

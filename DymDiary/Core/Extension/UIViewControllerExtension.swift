@@ -1,10 +1,3 @@
-//
-//  UIViewControllerExtension.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 9.02.21.
-//
-
 import UIKit
 
 extension UIViewController{

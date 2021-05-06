@@ -1,10 +1,3 @@
-//
-//  StaticTimeProgramm.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 7.03.21.
-//
-
 import RealmSwift
 
 import RealmSwift

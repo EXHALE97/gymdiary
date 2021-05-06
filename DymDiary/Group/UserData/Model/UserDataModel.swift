@@ -1,10 +1,3 @@
-//
-//  UserModel.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 6.02.21.
-//
-
 import Foundation
 
 class UserDataModel: NSObject {

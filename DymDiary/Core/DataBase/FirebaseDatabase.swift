@@ -1,10 +1,3 @@
-//
-//  FirebaseDatabase.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 9.02.21.
-//
-
 import Foundation
 import FirebaseCore
 import FirebaseFirestore

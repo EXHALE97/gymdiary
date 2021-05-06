@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 28.01.21.
-//
-
 import UIKit
 import CoreData
 import Firebase

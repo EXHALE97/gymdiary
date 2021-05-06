@@ -1,10 +1,3 @@
-//
-//  UserPhotoViewController.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 22.02.21.
-//
-
 import UIKit
 
 class UserPhotoViewController: UIViewController {

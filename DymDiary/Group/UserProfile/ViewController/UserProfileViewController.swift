@@ -1,10 +1,3 @@
-//
-//  UserProfileViewController.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 23.02.21.
-//
-
 import UIKit
 import RealmSwift
 

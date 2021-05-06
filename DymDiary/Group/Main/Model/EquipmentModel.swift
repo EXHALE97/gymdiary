@@ -1,11 +1,3 @@
-//
-//  EquipmentModel.swift
-//  DymDiary equipment_id
-
-//
-//  Created by Sergey Starushkin on 10.03.21.
-//
-
 import RealmSwift
 
 class EquipmentModel: Object, Codable {

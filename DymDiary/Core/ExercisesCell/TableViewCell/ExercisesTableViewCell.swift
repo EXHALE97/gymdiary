@@ -1,10 +1,3 @@
-//
-//  ExercisesTableViewCell.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 10.03.21.
-//
-
 import UIKit
 
 class ExercisesTableViewCell: UITableViewCell {

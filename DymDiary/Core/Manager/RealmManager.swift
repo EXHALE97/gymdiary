@@ -1,10 +1,3 @@
-//
-//  RealmManager.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 6.03.21.
-//
-
 import RealmSwift
 
 class ApproachManager: NSObject {

@@ -1,10 +1,3 @@
-//
-//  TermsOfUseViewController.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 12.03.21.
-//
-
 import UIKit
 
 class TermsOfUseViewController: UIViewController {

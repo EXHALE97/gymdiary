@@ -1,10 +1,3 @@
-//
-//  KeychainKey.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 1.02.21.
-//
-
 import UIKit
 
 enum KeychainKey: String, CaseIterable {

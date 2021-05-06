@@ -1,10 +1,3 @@
-//
-//  TrainingProcessViewModel.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 9.03.21.
-//
-
 import Foundation
 
 class TrainingProcessViewModel: NSObject {

@@ -1,10 +1,3 @@
-//
-//  PhotoExerciseModel.swift
-//  DymDiary
-//
-//  Created by Sergey Starushkin on 10.03.21.
-//
-
 import RealmSwift
 
 class PhotoExerciseModel: Object, Codable {
